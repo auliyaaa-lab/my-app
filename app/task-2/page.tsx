@@ -13,8 +13,8 @@ export default function task2() {
                     <p>design</p>
             </div>
             <div>
-                <p className="text-4xl">Adobe Photoshop</p>
-                <p>in 3 days</p>
+                <p className="text-4xl font-bold">Adobe Photoshop</p>
+                <p className="font-bold">in 3 days</p>
             </div>
 
             <div className="absolute bottom-5 right-5 flex -space-x-4 items-center">
@@ -41,8 +41,8 @@ export default function task2() {
                     <p>AI</p>
             </div>
             <div>
-        <p className="text-4xl">DALL・E 2, Midjourney, Stable Diffusion</p>
-                <p>in 5 days</p>
+        <p className="text-4xl font-bold">DALL・E 2, Midjourney, Stable Diffusion</p>
+                <p className="font-bold">in 5 days</p>
             </div>
             <div className="absolute bottom-5 right-5 flex -space-x-4 items-center">
              <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="User 1" className="w-10 h-10 rounded-full border-4 border-white object-cover ring-1 ring-black/5"/>
@@ -65,8 +65,8 @@ export default function task2() {
                     <p>design</p>
             </div>
             <div>
-                <p className="text-4xl">figma</p>
-                <p>8 hours ago</p>
+                <p className="text-4xl font-bold">figma</p>
+                <p className="font-bold">8 hours ago</p>
             </div>
         </div>
 
@@ -77,8 +77,8 @@ export default function task2() {
                     <p>Codding</p>
             </div>
             <div>
-                <p className="text-4xl">Python</p>
-                <p>2 days ago</p>
+                <p className="text-4xl font-bold">Python</p>
+                <p className="font-bold">2 days ago</p>
             </div>
         </div>
 
@@ -89,8 +89,8 @@ export default function task2() {
                     <p>design</p>
             </div>
             <div>
-                <p className="text-4xl">Sketch</p>
-                <p>4 days ago</p>
+                <p className="text-4xl font-bold">Sketch</p>
+                <p className="font-bold">4 days ago</p>
             </div>
         </div>
         </div>
